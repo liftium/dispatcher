@@ -1,0 +1,6 @@
+@Liftium.Dispatcher_HostAddress = http://localhost:5005
+
+GET {{Liftium.Dispatcher_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
